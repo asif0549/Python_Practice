@@ -1,3 +1,4 @@
+#A 
 num=int(input("Enter a number: "))
 x=num//2
 n=num
