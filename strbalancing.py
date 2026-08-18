@@ -1,4 +1,4 @@
-#Questioin asked in talent shine india
+#Question asked in talent shine india
 s=input("Enter String:").strip()
 count=0
 for ch in s:
